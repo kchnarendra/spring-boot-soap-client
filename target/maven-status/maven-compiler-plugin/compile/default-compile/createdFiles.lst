@@ -1,0 +1,10 @@
+com/narendra/soap/client/SOAPRestConroller.class
+com/narendra/soap/client/generated/pojos/school/StudentDetailsResponse.class
+com/narendra/soap/client/generated/pojos/school/StudentDetailsRequest.class
+com/narendra/soap/client/generated/pojos/school/Student.class
+com/narendra/soap/client/SpringBootSoapClientApplication.class
+com/narendra/soap/client/SOAPConnector.class
+com/narendra/soap/client/generated/pojos/school/ObjectFactory.class
+com/narendra/soap/client/Config.class
+com/narendra/soap/client/TestDTO.class
+com/narendra/soap/client/generated/pojos/school/package-info.class

@@ -1,0 +1,10 @@
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/SOAPRestConroller.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/Config.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/generated/pojos/school/StudentDetailsRequest.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/generated/pojos/school/ObjectFactory.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/generated/pojos/school/StudentDetailsResponse.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/generated/pojos/school/Student.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/generated/pojos/school/package-info.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/SOAPConnector.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/TestDTO.java
+/home/narendrac/dev/POC/codes/spring-boot-soap-client/src/main/java/com/narendra/soap/client/SpringBootSoapClientApplication.java
